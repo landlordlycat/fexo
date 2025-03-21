@@ -12,9 +12,10 @@
 |
 <a href="http://forsigner.com/fexo-doc-en/" target="_blank">Doc</a>
 
-![screenshot-1](http://forsigner.com/images/fexo/mobile.png?v=1)
-![screenshot-1](http://forsigner.com/images/fexo/fexo-1.png?v=1)
-![screenshot-2](http://forsigner.com/images/fexo/fexo-2.png?v1)
+
+![screenshot-1](https://r2.penx.me/cd9e7b1bd7eecf171e4c4e7a988f8e5e9488f25c8bec592fff27fe2e7a58b40d)
+![screenshot-1](https://r2.penx.me/5a598c9b992d76849c80997d3a1c40b2cfc8c96b800766949df4579fcf924dab)
+![screenshot-2](https://r2.penx.me/b65f0a1d1fad68e5e54d1784b111e20b6068226219b6ba5248526c1663eb1a6f)
 
 ### Browser compatibility
 
